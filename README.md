@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-I'm studying at Kasetsart university. I enjoy with code and basketball. 😍
+I'm studying at Kasetsart University. I enjoy with code and basketball. 😍
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [my portolio](http://suphakit-portfolio.vercel.app/)
