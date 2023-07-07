@@ -7,7 +7,7 @@ Computer Engineering Student
 I'm studying at Kasetsart University. I enjoy with code and basketball. 😍
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [my portolio](http://suphakit-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [my portolio](http://suphakit.vercel.app/)
 
 ### Skills
 
