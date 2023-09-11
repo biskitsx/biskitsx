@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student (Kasetsart University 🥦)
 ----------------------------
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  View my portfolio at [my portolio](http://suphakit.vercel.app/)
+* 🖥️  View my portfolio at [my portfolio](http://suphakit.vercel.app/)
 
 ### Skills
 
